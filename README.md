@@ -12,7 +12,7 @@ This is a project that I am working on in order of my dad who passed away. He al
 - Pressure
 - Altitude
 - Sky Temperature
-- Cloud Coverage
+- Cloud Coverage (Ambient Temp needed)
 - IR
 - Full Spectrum
 - Lux
@@ -37,3 +37,4 @@ This is a project that I am working on in order of my dad who passed away. He al
 - Wind Direction Sensor
 - Wave UV Sensor (UV Index)
 - DF Gravity Air Quality Sensor CCS811 (Air Quality)
+- DS18B20 (Ambient Temp)
